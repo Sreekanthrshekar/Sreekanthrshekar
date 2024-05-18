@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sreekanthrshekar
-- 👀 I’m interested in AI and BigData
-- 🌱 I’m currently improving my skillset in python and pandas
-- 💞️ I’m looking to enhance my deep understanding of python
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m currently improving my skillset in python, pandas, SQL, Excel, Statistics and Poewr BI
+- 💞️ I’m looking to enhance my deep understanding of Data analytics
 - 📫 You can reach me at aiwithsreekanthrshekar@gmail.com
 
 <!---
