@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sreekanthrshekar
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently improving my skillset in python, pandas, SQL, Excel, Statistics and Power BI
+- 🌱 I’m proficient in in python, pandas, SQL, Excel, Statistics and Power BI
 - 💞️ I’m looking to enhance my deep understanding of Data analytics
 - 📫 You can reach me at iamsrshekar@gmail.com
 
