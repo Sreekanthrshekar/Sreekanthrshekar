@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sreekanthrshekar
-- 👀 I’m interested in Data Analysis
+- 👀 My field of interest is Data Analysis
 - 🌱 I’m proficient in in python, pandas, SQL, Excel, Statistics and Power BI
 - 💞️ I’m looking to enhance my deep understanding of Data analytics
 - 📫 You can reach me at iamsrshekar@gmail.com
